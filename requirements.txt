@@ -1,0 +1,12 @@
+fastapi~=0.114.2
+uvicorn[standard]
+python-dotenv
+sqlalchemy
+rich
+databases[aiosqlite]
+asgi-correlation-id
+python-json-logger
+pydantic-settings~=2.5.2
+starlette~=0.38.5
+cf2tf
+aiofiles

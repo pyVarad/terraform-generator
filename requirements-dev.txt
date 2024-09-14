@@ -1,0 +1,5 @@
+ruff
+pytest
+pytest_asyncio
+httpx
+trio
